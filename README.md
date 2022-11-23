@@ -80,7 +80,7 @@ http://localhost:8080/story is a post route that allows a user to retrieve all o
 Successful request with 200 status:
 
 ```json
-	[
+[
     [
         "belives",
         "believes"
@@ -94,7 +94,7 @@ Successful request with 200 status:
         "ignite"
     ],
     ...
-   ]
+]
     
 ```
 
