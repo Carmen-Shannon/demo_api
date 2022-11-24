@@ -105,7 +105,7 @@ Unsuccessful request with 400 status:
 ```
 
 
-##Running the application
+## Running the application
 Firstly, a MySQL database needs to be created and set up:
 
 ```
